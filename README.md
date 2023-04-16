@@ -28,7 +28,7 @@ Please RSVP at-least 4 hours in advance via slack if you will be attending offic
 # Homework
 The homework and in-class assignments for this course are designed to help you apply and hone the skills and knowledge you’re learning. Assignments build upon each other, and each represents a different element of your final project. Some assignments will be done in class, while others will be completed as homework.
 
-Homework does not receive a grade, only confirmation of whether or not it’s been completed. To submit your homework use this link: <a href="" target="_blank" rel="noopener noreferrer">https://form.jotform.com/230144447034144</a>
+Homework does not receive a grade, only confirmation of whether or not it’s been completed. To submit your homework use this link: <a href="https://form.jotform.com/231056049664154" target="_blank" rel="noopener noreferrer">https://form.jotform.com/231056049664154</a>
 
 Homework is due the Thursday (US) / Friday (AU) AFTER the week it was assigned.  If homework is turned in on time, it will be given a full review along with comments on the work.  Late homework will be accepted up to and including the last day of class but will only be checked for completion.
 
@@ -41,6 +41,9 @@ More information on the Final Project can be found here: This document contains 
 You will work on your project throughout the course in your homework and in-class assignments.  You will present your project work twice: in a midpoint presentation and a final presentation. 
 
 Your final project will be graded according to these criteria found here, and you’ll receive qualitative feedback from your classmates and instructors. Completing and submitting your final project is a requirement for graduation. Final projects should be “submitted” by providing the links to both the live github pages site and the github repo.
+
+
+For inspiration you can check <a href="https://www.lifedebugger.dev/" target="_blank" rel="noopener noreferrer">www.lifedebugger.dev</a>
 
 # What We Expect From You
 Graduation Requirements
