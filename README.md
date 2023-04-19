@@ -71,7 +71,7 @@ Graduation Requirements
 
 **Zoom Link:** 
 
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<a href="https://generalassembly.zoom.us/rec/share/mFoVvhM5ff3j1OCXdmVcnweb7D5JSqa936xoTTIOJFsBPLK_sJmLlhc-Xw_EZzwI.5i0WFzf4IK69AUeB" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: iGat5=Lm
 
 ------
 
