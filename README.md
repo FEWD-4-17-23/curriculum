@@ -80,8 +80,8 @@ Graduation Requirements
 | Lesson 2 (w1:d2)    | HTML Recap & CSS Intro | HOMEWORK 01<br />"Xia Dynasty" |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />
-passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />
+passcode:  -->
 
 
 ------
@@ -91,7 +91,7 @@ passcode:
 | Lesson 3 (w2:d1)    | CSS: Box Model | HOMEWORK 02 <br /> "Startup Matchmaker" |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 
@@ -103,7 +103,7 @@ passcode:
 | Lesson 4 (w2:d2)    | CSS: Flexbox      |   N/A  |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br /> passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br /> passcode:  -->
 
 
 ------
@@ -113,7 +113,7 @@ passcode:
 | Lesson 5 (w3:d1)    | CSS: Grid  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 ------
@@ -123,7 +123,7 @@ passcode:
 | Lesson 6 (w3:d2)   | Layout Lab  |   HOMEWORK 03 <br /> "Trulia" |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 ------
@@ -133,7 +133,7 @@ passcode:
 | Lesson 7 (w4:d1)   | Intro To Javascript  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 ------
@@ -143,7 +143,7 @@ passcode:
 | Lesson 8 (w4:d2)    | JS Basics: DOM  |   JS 3 level Challenge |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 ------
@@ -153,7 +153,7 @@ passcode:
 | Lesson 9 (w5:d1)  | JS Rock Paper Scissor & More Labs  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
  
 ------
 
@@ -162,7 +162,7 @@ passcode:
 | Lesson 10 (w5:d2)    | Responsive Design  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 ------
 
@@ -171,7 +171,7 @@ passcode:
 | Lesson 11 (w6:d1)   | Responsive Review, Troubleshooting, More Applied Media Queires  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 | Lesson # (Week:Day) | In Class                    | Homework                       |
@@ -179,7 +179,7 @@ passcode:
 | Lesson 12 (w6:d2)    | Mid Course Review  |   Trulia Landing Returns |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 
@@ -188,7 +188,7 @@ passcode:
 | Lesson 13 (w7:d1)    | Arrays and Loops  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 
@@ -198,7 +198,7 @@ passcode:
 | Lesson 14 (w7:d2)   |Bootstrap  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
  
 
 
@@ -237,7 +237,7 @@ passcode:
 | Lesson 18 (w9:d2)      |API Labs ( weather/OMDB/giphy)  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 
