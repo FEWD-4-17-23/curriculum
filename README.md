@@ -80,8 +80,8 @@ Graduation Requirements
 | Lesson 2 (w1:d2)    | HTML Recap & CSS Intro | HOMEWORK 01<br />"Xia Dynasty" |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />
-passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/DQb7jf1aH-wNqN75lrESWTa6OfJii7fQF98djFxsSNDQ6AiMEGKfkrD6nVIRpW8B.hJ0E5MLypHA6XHsX" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />
+passcode: HVrLpA4!
 
 
 ------
