@@ -91,7 +91,7 @@ passcode: HVrLpA4!
 | Lesson 3 (w2:d1)    | CSS: Box Model | HOMEWORK 02 <br /> "Startup Matchmaker" |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/YjInburTfQQTXE8_8rrlvRhTlb0L1ov89uR1mvUa-2aCiQNdILpiWosSB-aEyN0.-S6OnZHouIsnHvSi" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: dAT$f^3A
 
 
 
