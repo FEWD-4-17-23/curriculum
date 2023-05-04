@@ -103,8 +103,7 @@ passcode: HVrLpA4!
 | Lesson 4 (w2:d2)    | CSS: Flexbox      |   N/A  |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br /> passcode:  -->
-
+<a href="https://generalassembly.zoom.us/rec/share/cAtXMK5XtwDAzeQWH0YbpcC_y6vZpQBF5bGYGVjTgWAQ5bsKuAxTdPsvL3JDKmWF.O-seXXXrZMLIBt06" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br /> passcode: 2zLu^3Y&
 
 ------
 
@@ -113,8 +112,7 @@ passcode: HVrLpA4!
 | Lesson 5 (w3:d1)    | CSS: Grid  |   N/A |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
-
+<a href="https://generalassembly.zoom.us/rec/share/7Ldn1T6J3I3PJwMDQ6JMLthwRYBcMAfiYdziufVrVwqgIrI3KtmV10p87O-v-bDB.VxLnx776kJjeKroi" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 9WkC!!1! 
 
 ------
 
@@ -123,8 +121,7 @@ passcode: HVrLpA4!
 | Lesson 6 (w3:d2)   | Layout Lab  |   HOMEWORK 03 <br /> "Trulia" |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
-
+<a href="https://generalassembly.zoom.us/rec/share/I70dt0X7tYWb7vpmjXE8s_JyvTh099d_m-F8QQs0NTTM85CBI-M9_0j8tKsd_x0p.LVwuzZckNHjYVqJj" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: J!q!qCF0
 
 ------
 
