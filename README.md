@@ -130,7 +130,7 @@ passcode: HVrLpA4!
 | Lesson 7 (w4:d1)   | Intro To Javascript  |   N/A |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/rhQ4_0yAKFhL9z9pLYmQUyRziLqLrpm9pNWgTPUOBwdO7hwlGnHuOvclBNdkUFMu.JWOYGi7t51THisYQ" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: P#WQ7VBn
 
 
 ------
