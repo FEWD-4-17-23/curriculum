@@ -204,7 +204,7 @@ passcode: HVrLpA4!
 | Lesson 15 (w8:d1)     |Forms  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
  
 
 
@@ -215,7 +215,7 @@ passcode: HVrLpA4!
 | Lesson 16 (w8:d2)     |PetFinder Lab  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
 
 
 
@@ -224,7 +224,7 @@ passcode: HVrLpA4!
 | Lesson 17 (w9:d1)      |APIs  |   N/A |
 
 **Zoom Link:**
-<a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 
+<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
  
 
 
