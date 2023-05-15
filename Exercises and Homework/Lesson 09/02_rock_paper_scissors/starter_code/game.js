@@ -17,7 +17,7 @@ function compare(me, opponent) {
 
 
 
-jQuery( document ).ready(function() {
+document.addEventListener('DOMContentLoaded', function(event) {
 
     // Bind a click event onto each of the three buttons.  It should run the compare function and then put the result to the #decsision id in the html
 
