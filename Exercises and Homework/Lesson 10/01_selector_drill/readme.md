@@ -8,8 +8,9 @@ We have to turn alternating squares brown to finish building our board.
 
 ** Instructions 
 
+Edit the style.css (and review the index.html)
 
-For each of the instructions below, create the desired selector and set the property:
+For each of the instructions, create the desired selector and set the property:
 ```
     background-color: brown;
 ```
