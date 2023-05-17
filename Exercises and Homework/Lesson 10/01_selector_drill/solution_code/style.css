@@ -1,0 +1,73 @@
+/* Checkerboard */
+
+/*
+The goal of this exercise is to practice ways to select document elements with CSS selectors in various combinations. The end result should look like a checkerboard.
+
+We have to turn alternating squares brown to finish building our board.
+*/
+
+/* Instructions */
+
+/* 
+For each of the instructions below, create the desired selector and set the property:
+
+    background-color: brown;
+
+For each instruction, there should be ONE and ONLY ONE set of {}
+
+
+*/
+
+
+/* First Colum */
+/* Find a way using a combination of the div tag and a class to target the first square of every other row. */
+div.ichi {
+    background-color:brown;
+}
+
+
+/* Alternating rows, third square */
+/* Find a way using a combination of classes to select the third square in each row */
+.oddballs .san {
+    background-color:brown;
+}
+
+
+/* First row, last column */
+/* Using a combination of ID and classes, select that last square in the first row */
+#unus .go {
+    background-color:brown;
+}
+
+
+/* Second row */
+/* Using a combination of tags and classes, create a selector that will affet the 2nd and 4th square of the second row. 
+
+Hint: You may want to have multiple selectors separate by a comma */
+ul .ni,
+ul .yon {
+    background-color:brown;
+}
+
+/* Third and Fifth Row, Fifth Column */
+/* Using a combination of tags and classes, create a selector that will affect the last square in the section tag in the 3rd and 5th row but NOT the 4th row. 
+
+Hint: Study the tags being used. How are the rows alike, and how are they different?
+*/
+
+section div.go {
+    background-color:brown;
+}
+
+
+/* Using ids, classes, and the child combinator (aka, the >), selet the second square in the forth row */
+#quattuor > .ni {
+    background-color:brown;
+}
+
+/* Using ONLY ids and classes, select the fourth square in the forth row */
+#quattuor .drill_central_grid_row_item.yon {
+    background-color:brown;
+}
+
+

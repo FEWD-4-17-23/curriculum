@@ -1,0 +1,86 @@
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: #043049;
+    font-size: 26px;
+    line-height: 1.4;
+    color: #606161;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    background: #f0efef;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+.demoHeader {
+    position:relative;
+    background-color: rgb(10,35,15);
+    color: white;
+    border-bottom: 4px solid rgb(40,85,45);
+    overflow: hidden;
+    margin: 0;
+}
+
+.demoHeaderInner {
+    max-width:960px;
+    padding: 10px 15px 5px 15px;
+    margin: 0 auto;
+}
+
+.demoHeaderInner .miniBrand {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.demoHeaderInner h1 {
+    margin:0;
+    font-size: 36px;
+}
+
+/* Checkerboard base */
+
+.drill_central_grid {
+    margin: 3rem 2rem;
+}
+
+.drill_central_grid > * {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 15vh;
+    gap: 0;
+}
+
+.drill_central_grid ul,
+.drill_central_grid li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.drill_central_grid > * > * {
+    margin: 0;
+    padding: 0;
+}
+
+.drill_central_grid > *:first-child > * {
+    border-top: 1px solid rgb(40,85,45);
+}
+
+.drill_central_grid > * > * {
+    border-bottom: 1px solid rgb(40,85,45);
+    border-right: 1px solid rgb(40,85,45);
+}
+.drill_central_grid > * > *:first-child {
+    border-left: 1px solid rgb(40,85,45);
+}
