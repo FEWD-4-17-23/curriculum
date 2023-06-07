@@ -140,8 +140,7 @@ passcode: HVrLpA4!
 | Lesson 8 (w4:d2)    | JS Basics: DOM  |   JS 3 level Challenge |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
-
+<a href="https://generalassembly.zoom.us/rec/share/8qBXzylfQe-dLmv4J1TdISxZ9NTJb3QGx-PCt_mWubq3AbSaEk-pPs5FjJFz_qoB.2YPHYaEnjwbvYeBQ " target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 8%03eqhy
 
 ------
 
@@ -150,7 +149,9 @@ passcode: HVrLpA4!
 | Lesson 9 (w5:d1)  | JS Rock Paper Scissor & More Labs  |   N/A |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/PKg2dgiTqr0j_e_DV-jcjURpr2wVdwOL2mNamAS6Ibv5bSAEiDxVFBk8Ff8KfdQo.DCvCsukK5XnQahkD" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: *#Az0n73
+
+
  
 ------
 
@@ -159,7 +160,7 @@ passcode: HVrLpA4!
 | Lesson 10 (w5:d2)    | Responsive Design  |   N/A |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/1UcgF3i5CMJ1QwV6kgPgjonrAbMUDW2MqEbGcD8Xt6j5-Ia8LBkH4dDRqoE9g6cF.hVaWr-bIqqZuC6d1" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: e8k%e=aX
 
 ------
 
@@ -168,7 +169,7 @@ passcode: HVrLpA4!
 | Lesson 11 (w6:d1)   | Responsive Review, Troubleshooting, More Applied Media Queires  |   N/A |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/e2OPPO4Tn4m3pl7a_wnpgbkO6YbqQPMSQMRI46n-spK98hgRKeCeHwXYMxIG8tYR.x3U5hUcfwC09i6po" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: 8J@u$#gq
 
 
 | Lesson # (Week:Day) | In Class                    | Homework                       |
@@ -176,7 +177,7 @@ passcode: HVrLpA4!
 | Lesson 12 (w6:d2)    | Mid Course Review  |   Trulia Landing Returns |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/3WA0cH_yLnyZK3_pGfqZ0864W04JBg2VH2NatAzY8KHgQ9qyJvGO-SdBrkbDToI.FLczgGSJ8jYM0nUx" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: hm4l.+=5
 
 
 
@@ -185,8 +186,7 @@ passcode: HVrLpA4!
 | Lesson 13 (w7:d1)    | Arrays and Loops  |   N/A |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
-
+<a href="https://generalassembly.zoom.us/rec/share/dGX8AOFwqeJdofrqEssfMVn4o2tMsR51HG5inhvx8C7Wg3udSuZIXewirEnmcW8i.ph0pMn7KAVTNY7v7" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode: Sy3Ld#iD
 
 
 
@@ -195,7 +195,7 @@ passcode: HVrLpA4!
 | Lesson 14 (w7:d2)   |Bootstrap  |   N/A |
 
 **Zoom Link:**
-<!-- <a href="" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  -->
+<a href="https://generalassembly.zoom.us/rec/share/Rrzi4uBpWZQe0rav5ym-a7Tuoqm6yYuwwnOPxGD25mT_klSWGGqMdFSjGo-hh_0v.oSeGc8gDA-XuylZE" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />passcode:  gM*00R@v
  
 
 
